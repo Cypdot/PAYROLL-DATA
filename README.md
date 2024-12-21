@@ -18,3 +18,9 @@ The dataset used for this project includes payroll data with the following field
 - Salary
 - Benefits
 - Taxes
+
+#### Tools Used
+- Excel: Data cleaning and preprocessing
+- SQL: Data querying and manipulation
+- Power BI: Data visualization and reporting
+
